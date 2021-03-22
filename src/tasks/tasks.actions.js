@@ -1,4 +1,4 @@
-import * as tasksGateway from './TasksGateway';
+import * as tasksGateway from './tasksGateway';
 import { tasksListSelector } from './tasks.selectors';
 
 export const TASKS_LIST_RECIEVED = 'TASKS_LIST_RECIEVED';
